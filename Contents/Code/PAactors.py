@@ -146,6 +146,8 @@ class PhoenixActors:
                 newActor = 'Khloe Kapri'
             elif newActor == 'Lara Craft':
                 newActor = 'Lora Craft'
+            elif newActor == 'La Sirena 69' or newActor == 'Lasirena 69' or newActor == 'Lasirena' or newActor == 'La Sirena':
+                newActor = 'Lasirena69'
             elif newActor == 'Lilly LaBeau' or newActor == 'Lilly Labuea' or newActor == 'Lily La Beau' or newActor == 'Lily Lebeau' or newActor == 'Lily Luvs':
                 newActor = 'Lily Labeau'
             elif newActor == 'Lilly Lit':
